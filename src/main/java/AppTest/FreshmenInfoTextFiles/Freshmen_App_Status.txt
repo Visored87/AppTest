@@ -1,0 +1,47 @@
+Check Admission Application Status(Freshmen)
+
+Once you have applied, you can track the status of your admission application through your personal MyUNT portal page at my.unt.edu.
+
+If required items are missing for your application, those will be listed at MyUNT. 
+
+Any updates made to your application are reflected on the MyUNT portal page. 
+
+If you have applied for financial aid or scholarships, MyUNT also lets you view the status of those applications.
+
+You will need to activate your EUID and password before you log into MyUNT.
+
+Your EUID and PIN are emailed to you after you have paid your application fee. They will be sent to the email address you provided when you applied.
+
+**If you have applied and paid the application fee, but did not receive this email, please contact the admissions office.
+
+1.  Step 1 - Activate Your EUID Account:
+
+	- Go to ams.unt.edu
+	- Click on the Activate Your Account link
+	- Follow the instructions to set your permanent password
+	(Note that you will be asked to verify some personal information to ensure the privacy of your data.)
+
+Your EUID, one-time PIN and permanent password provide access to your personal information; do not share them with anyone.
+
+2. Step 2 – Log In to MyUNT:
+
+Once you have activated your account and set your permanent password, you can log in to check your application status.
+
+	- Go to my.unt.edu
+	- Login with your EUID and password
+
+If you are unable to log in immediately after activating your account, please wait several hours and try again. 
+
+If you still cannot log in, contact the UNT Helpdesk at 940-565-2324.
+
+3. Step 3 - Check Your Admission Application Status:
+
+	- Once you have entered the MyUNT portal page, select the "Student Center/Register" icon in the main screen.
+	- When the Student Center appears you will find a section for "Admissions" (scroll to the bottom of the page) 
+	where you can check the status of your admission application.
+	- Click the "View Status" button to display the current status of each application for admission that you have submitted.
+
+If your application is incomplete, you may view missing items by either clicking on the "To Do List" link on the right menu bar or by clicking on the "View All To Do Items" 
+link on the Application Status page. These items are needed to complete your application for admission. 
+
+Please submit these items to the admissions office in order to complete your application. Once your application is complete, it can be evaluated for admission.
